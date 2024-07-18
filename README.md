@@ -81,7 +81,7 @@ Stay tuned for updates!
 
 ## Contact
 
-Metana may be contacted through the following means: **Call us directly:** (415) 416-0800 or **Email us:** info@metana.io.
+Metana can be contacted through the following means: **Call us directly:** (415) 416-0800 or **Email us:** info@metana.io.
 
 ---
 
