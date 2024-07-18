@@ -91,6 +91,9 @@
     - Hint: Share strategies for handling stress effectively.
 
 23. **How do you prioritize and manage multiple deadlines?**
+
     - Hint: Discuss organizational skills or time management techniques.
+
+24. **If you are having a bad day how will this affect your work days?**
 
 **[⬆ Back to Top](#personal-background)**

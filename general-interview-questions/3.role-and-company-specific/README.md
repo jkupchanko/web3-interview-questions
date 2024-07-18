@@ -55,6 +55,15 @@
     - Hint: Research company leadership for preparation.
 
 14. **Who are our main competitors?**
+
     - Hint: Know the company’s industry landscape and competitors.
+
+15. **Why does our company do better than our competitors?**
+
+16. **Have you ever used Oracles?**
+
+17. **What are the downsides of Oracles?**
+
+18. **Are you comfortable speaking out loud?**
 
 **[⬆ Back to Top](#role-and-company-specific)**

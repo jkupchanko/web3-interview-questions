@@ -59,6 +59,15 @@
     - Hint: Reflect on areas for improvement or lessons learned.
 
 15. **Tell me about a time when you disagreed with your supervisor.**
+
     - Hint: Discuss how you navigated differences in opinion professionally.
 
-**[⬆ Back to Top](#experience-and-background)** 
+16. **Explain why you like web3?**
+
+17. **Explain the projects you have been involved in**
+
+18. **Have you ever been in a hackathon?**
+
+19. **What do you think Web3 is lacking?**
+
+**[⬆ Back to Top](#experience-and-background)**
